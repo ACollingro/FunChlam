@@ -3,7 +3,7 @@ main:
  # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Project"
-     url: https://ACollingro.github.io/FunChlam/project/
+     url: /project/
    - title: "People"
      url: /people/
    - title: "Methods"
