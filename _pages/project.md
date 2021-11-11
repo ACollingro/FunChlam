@@ -2,10 +2,8 @@
 layout: single
 permalink: /project/
 author_profile: false
-title: "Project"
+title: "FunChlam - The project"
 ---
-
-# FunChlam - The project
 
 Chlamydiae, such as *Chlamydia trachomatis* or *C. pneumoniae*, are well known bacterial pathogens of humans and animals. Only in the past 25 years closely related bacteria have been found in diverse environments where they thrive as symbionts in protists or as pathogens in a variety of animal hosts. The discovery and analysis of these environmental chlamydiae has provided new, exciting, and valuable insights into the basic biology and evolution of the whole phylum Chlamydiae. Yet, our knowledge about these microbes is mainly derived from in-depth analysis of only few representatives. Molecular surveys though indicate a tremendous hidden diversity of chlamydiae in nature, and there is a remarkable gap concerning genomic information and isolates for the majority of environmental chlamydiae lineages. This project aims to characterize natural chlamydial communities. 
 
