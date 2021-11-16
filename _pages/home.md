@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /
-image:
-  feature: pic1.jpg
-  credit: Lena Rohrhofer
 ---
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/pic3.jpg)
