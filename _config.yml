@@ -130,9 +130,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "University of Vienna"
+      icon: "/assets/images/Uni_Logo_2016.jpg"
+      url: "https://univie.ac.at"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
