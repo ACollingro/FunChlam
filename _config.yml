@@ -131,7 +131,7 @@ author:
 footer:
   links:
     - label: "DoME"
-      icon: "/assets/images/favicon-32x32.png"
+      icon: "assets/images/favicon-32x32.png"
       url: "https://dome.csb.univie.ac.at"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
